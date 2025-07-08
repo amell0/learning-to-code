@@ -26,4 +26,4 @@ while i <= j:
     i += 1
 
 print(f"The first player's score is {p1score} and the second player's score is {p2score}")
-
+ 
